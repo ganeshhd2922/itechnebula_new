@@ -1,0 +1,6 @@
+{
+    "require": {
+        "wolfcast/browser-detection": "^2.9",
+        "mobiledetect/mobiledetectlib": "^4.8"
+    }
+}
